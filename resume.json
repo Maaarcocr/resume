@@ -1,0 +1,112 @@
+{
+	"basics": {
+		"name": "Marco Concetto Rudilosso",
+		"label": "Software Maker",
+		"picture": "",
+		"email": "marcoc.r@outlook.com",
+		"phone": "+447871218445",
+		"website": "http://rudilosso.me",
+		"summary": "Marco is from Sicily, where he got too used to good summers. He is a student at UCL, studying Computer Science. In his second year he was in the top 5% of his class. He is interested in programming languages implementations and logic. Outside University, he likes food, going out with friends, playing football (actual football, not the american one) and videogames. ",
+		"location": {
+			"address": "8A Bloomsbury Square",
+			"postalCode": "WC1A 2LP",
+			"city": "London",
+			"countryCode": "UK"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "Maaarcocr",
+				"url": "https://twitter.com/Maaarcocr"
+			},
+			{
+				"network": "GitHub",
+				"username": "Maaarcocr",
+				"url": "https://github.com/Maaarcocr"
+			}
+		]
+	},
+	"work": [
+		{
+			"company": "GoCardless",
+			"position": "Software Developer Intern",
+			"website": "https://gocardless.com",
+			"startDate": "2017-06-12",
+			"endDate": "2017-09-08",
+			"summary": "Worked as a front-end developer in the partner integration team.",
+			"highlights": [
+				"Worked with React and Redux",
+				"Helped moving from Angular to React",
+				"Acted as the main front-end developer of my team",
+				"Reviewed code from other front-end developers",
+				"Introduced other engineers to front-end developing"
+			]
+		},
+		{
+			"company": "UCL Dept. Computer Science",
+			"position": "Software Developer Intern",
+			"startDate": "2016-06-29",
+			"endDate": "2016-09-15",
+			"summary": "Created a system that facilitates student - teaching assistants relationship.",
+			"highlights": [
+				"Developed, deployed and maintained a system used by students during the academic year",
+				"Worked with Go, React, MySQL and Docker",
+				"Gathered requirements from the lecturer and turned them into something real",
+				"Iterated on the product on a weekly basis, by adding features or by fixing problems",
+			]
+		}
+	],
+	"volunteer": [{
+		"organization": "TechSoc",
+		"position": "Project Director",
+		"website": "https://techsoc.io/",
+		"startDate": "2016-08-01",
+		"endDate": "2017-07-31",
+		"summary": "TechSoc mission is to promote technological awareness and innovation both within and beyond UCL.",
+		"highlights": [
+			"Been the director who has organised most events",
+			"Helped organising Porticode, a 24 hours hackathon that was help in December 2016"
+		]
+	}],
+	"education": [{
+		"institution": "UCL",
+		"area": "Computer Science",
+		"studyType": "Bachelor",
+		"startDate": "2015-09-26",
+		"endDate": "2019-06-09",
+		"gpa": "82/100",
+		"courses": [
+			"DB1101 - Basic SQL",
+			"CS2011 - Java Introduction"
+		]
+	}],
+	"skills": [{
+			"name": "Web Development",
+			"level": "Master",
+			"keywords": [
+				"HTML",
+				"CSS",
+				"Javascript"
+			]
+		},
+		{
+			"name": "Compression",
+			"level": "Master",
+			"keywords": [
+				"Mpeg",
+				"MP4",
+				"GIF"
+			]
+		}
+	],
+	"languages": [{
+		"language": "English",
+		"fluency": "Native speaker"
+	}],
+	"interests": [{
+		"name": "Wildlife",
+		"keywords": [
+			"Ferrets",
+			"Unicorns"
+		]
+	}]
+}
